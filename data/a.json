@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "Name": "Jack",
+        "age": 18,
+        "pay": 1500
+    },
+    {
+        "id": 2,
+        "Name": "Jane",
+        "age": 52,
+        "pay": 3000
+    },
+    {
+        "id": 3,
+        "Name": "Mike",
+        "age": 13,
+        "pay": 600
+    },
+    {
+        "id": 4,
+        "Name": "Oscar",
+        "age": 22,
+        "pay": 2800
+    },
+    {
+        "id": 5,
+        "Name": "Ceriel",
+        "age": 35,
+        "pay": 6550
+    },
+    {
+        "id": 6,
+        "Name": "Kate",
+        "age": 22,
+        "pay": 250
+    },
+    {
+        "id": 7,
+        "Name": "Wang",
+        "age": 18,
+        "pay": 1580
+    },
+    {
+        "id": 8,
+        "Name": "Isabelle",
+        "age": 19,
+        "pay": 4600
+    },
+    {
+        "id": 9,
+        "Name": "Zoe",
+        "age": 33,
+        "pay": 100
+    },
+    {
+        "id": 10,
+        "Name": "Areil",
+        "age": 41,
+        "pay": 8000
+    },
+    {
+        "id": 11,
+        "Name": "Vivian",
+        "age": 39,
+        "pay": 6480
+    },
+    {
+        "id": 12,
+        "Name": "Winie",
+        "age": 31,
+        "pay": 9450
+    },
+    {
+        "id": 13,
+        "Name": "Peter",
+        "age": 25,
+        "pay": 1500
+    }
+]
